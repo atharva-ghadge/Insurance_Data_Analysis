@@ -20,7 +20,7 @@ Project Components
 4. Sentiment Analysis:
  - Analyzed customer feedback using sentiment analysis techniques to gauge customer satisfaction and areas for improvement.
  - Developed visual representations of sentiment scores to correlate feedback with sales outcomes.
-5. Key Insights:
+5. Key Insights: 
  - Identified actionable insights from both sales data and customer feedback to inform business strategies and improve customer engagement.
    
 Technologies Used
